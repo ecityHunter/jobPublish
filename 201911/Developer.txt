@@ -1,0 +1,67 @@
+Developer
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 5
+Employee Status: Permanent
+Posting Date: 29/Oct/2019
+Unposting Date: 13/Nov/2019
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+Job Scope
+
+SABRE is Stanchart’s Analytics Booking and Risk Engine and is the strategic risk and PnL platform for Financial Markets. The development team is a world class technology group in Standard Chartered bank to provide technical solutions to support the bank’s Financial Markets business as well as support requirements from other projects with a wider scope such as regulatory books of work. We bring a deep understanding of the market, a scientific approach, and innovative technologies to bear on the challenges of profitable trading in the world's highly competitive environment. This is a rare opportunity to get into an organization working with smart, great technologists globally in financial markets domain. The culture in SABRE is open, intellectual, and fun. Learning opportunities are plentiful: organized classes and seminars; freewheeling discussions; intensive one-on-one mentorships. Career advancement is always waiting for those high-energized talents to pursue.
+
+ 
+As a Developer, you’ll be responsible for delivering quality software to tight timelines. Based in TEDA and working in a dynamic global team with business analysts, project managers, business stakeholders and other technical experts across multiple locations.
+
+
+The Role Responsibilities
+Experienced developers with previous experience in the end-to-end design, development and support of large scale data processing systems built on Oracle.
+Ability to work and liaise directly with the Front Office, Middle Office and various functions
+Familiarity and confidence working in an agile development environment
+Familiarity with CI/CD and devops
+Self-starter who can drive/facilitate requirements and development effort with the business
+Functional programming experience a plus
+Interact with the business users to gather the requirements
+Design smart and scalable solutions following the bank standards
+Coordinate with other teams in Technology
+Provide second line support
+Write efficient, clear code and be able to articulate what has been implemented and why.
+An excellent developer with good software design principles, someone who writes robust code along with accompanying test suites.
+Make sure that all software is incorporated into the CI/CD process in SABRE.
+Be a self starter and be able to quickly grasp and understand existing software.
+Our Ideal Candidate
+
+Technical skills:
+8+ years hands on development with investment banking IT experience
+Java 8 (essential streaming, map and reduce functions), Multi-Threading is a plus.
+Java Restful API development plus.
+Spring Boot and Integration experience is a plus
+Oracle PL/SQL development background, SQL Tuning is a plus
+Scripting programming in Linux shell, Python is a plus.
+Development experience on functional language, such as Haskell /Scala, is a plus.
+SCRUM and Agile.
+Functional skills:
+Financial Market domain knowledge, related with FX and IR derivatives is plus
+Experience/familiarity with control processes for FM platforms.
+Investment banking is a strong plus
+Derivatives business is a plus
+Soft skills:
+Fluent in English (speaking and writing)
+Outstanding problem solving skills
+Proactive, self starter, autonomous
+Good team spirit
+Ability to work under pressure with multiple assignments
+General:
+Strong architectural and engineering background with experience of delivery.
+Strong Java skills
+Strong knowledge and previous experience in end-to-end design, development and subsequent support of large scale data processing systems
+Familiarity and confidence working in an “agile” development environment.
+Someone who can drive / facilitate the requirements and development effort with the business.

@@ -1,0 +1,44 @@
+Collateral Lights on Development Lead
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 6
+Employee Status: Permanent
+Posting Date: 01/Aug/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+Job Purpose
+
+The Collateral Technology team within Financial Markets IT is looking for a strong, hands-on candidate to fill the role of Lights On Development Lead. The Development Lead is expected to lead an Agile team of 8 or more engineers, dedicated to implementing solutions to build the strategic collateral management system to replace a legacy vendor platform. 
+
+The Role Responsibilities
+Scrum Master responsibility to run the daily scrums, and help facilitate the execution by members of the Agile team
+Be part of an Agile team and contribute with hands on technical and functional development work to deliver on items in the product/project backlog
+Track performance of the Agile team and help improve agility and velocity of the team
+Contribute to functional and technical design and implementation of solutions
+Contribute to implementation and enforcement of best practices related to standards and control of software code, testing and release management
+Implement DevOps as part of the development practice of the Agile team to help automate code versioning, code build, testing, deployment from environment to environment, and release into production
+Our Ideal Candidate
+Bachelor or Master degree in Engineering or Computer Science
+Business expertise in Financial Markets
+Subject matter expertise in collateral management and margin operations for Financial Markets products
+8 to 10 years of hands on experience in building robust, distributed, scalable, high quality production applications
+Excellent oral and written communication skill in English
+Experience in test driven development, micro services, messaging middleware, Kafka, Java 8, AngularJS or React, monitoring tools such as ITRS, ELK etc.
+Hands-on ability on application development using Java
+Hands-on ability on relational database development, like Oracle, Postgres SQL
+Familiar with Continuous Integration methodology
+Preferred Qualifications, but not strictly required
+
+Experience with Cloud Computing platforms (e.g., Amazon AWS, Google App Engine, Hadoop, Microsoft Azure)
+Interest in new IT technology for programming
+Experience in Groovy, Perl, Python, Ruby or other scripting languages
+Experience with picking and applying good software practices like test driven development (TDD), continuous integration and continuous delivery
+Ability to work in a variety of client settings and in a team-oriented, collaborative environment

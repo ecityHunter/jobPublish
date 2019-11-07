@@ -1,0 +1,61 @@
+Senior Java Developer
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 6
+Employee Status: Permanent
+Posting Date: 29/Oct/2019
+Unposting Date: 13/Nov/2019
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+Scope of Role:
+
+As a senior Java developer, you will focus on technical solutions and be involved into multiple agile software development teams to deliver business values to real business. You will understand different technology silos and the integration methodology within the Bank. You will be part of the team that constantly work on improving Murex Trading Platform to purchase best technical practise and business requirement satisfaction. As part of the FMTPT team, you will have opportunities to contribute to technical revolutions of banking financial trading systems.
+
+ 
+Job descriptions:
+Understand the Business, functional and Technical requirement and specification, identify gap in the requirement to provide feedback and track to closure of the gap in requirement.
+Complete the development and testing in Java base on requirement for Financial Market platform integration.
+Support SIT/UAT/DR and go live activities on project level.
+Stakeholders engagement and the status reporting preparation.
+Manage defect triage and correlate symptoms with likely causes.
+Understand Business Requirements, participate in Requirements Analysis, design applications based on System Requirements and Architecture, prototype if necessary, develop, unit test and deploy the application.
+Build Micro Services based solutions using Java/J2EE frameworks.
+Comply with the department application standards and general industry based Java/J2EE based application development principles, theories, concepts, documentation and techniques.
+Contribute and participate in design and code reviews.
+Contribute in creating delivery pipelines for newly created Micro.
+Support building Micro Services practice within development group with objective to create standards, tools and training other developers.
+Our Ideal Candidate
+
+General profile
+Adequate English communication skills in writing and speaking in an English working environment.
+Strong abilities on problem solving and constructive thinking, a quick learner.
+Basic knowledge on financial knowledge.
+A logical thinker in front of huge complexity and uncertainty.
+Team player with proactive thinking and initiative to improve the entire team’s efficiency and collaboration.
+Enthusiastic about software quality engineering and its modern applied practices/tools.
+Bachelor's degree in Computer Science or related discipline or an equivalent combination of education and experience from which comparable knowledge and skills may be acquired
+Qualifications
+Graduate or Master in software engineer related major. No mandatory requirement for working experience, 1-3 years is preferred.
+3-5 years of development background in web applications using Eclipse, Java frameworks and J2EE development.
+3+ years of experience in Object Oriented Analysis and Design using Java and UML.
+Experience in Eclipse (commonly used plug-ins and debug techniques) or any Java IDE.
+Understanding of J2EE patterns and ability to use commonly used on in real time situations.
+Good knowledge of database concepts with working knowledge of SQL, Stored Procedures
+Design and Development of web applications using the Java EE , JSP, XML, Weblogic 12, AJAX
+Experience in using Java & UI frameworks - Angular, Spring, React or JQuery
+Experience with scripting languages
+Experience in developing APIs using Spring Boot framework.
+Experience in Java, Spring, Linux, need to have solid foundation knowledge on Java especially.
+Experience with industry leading databases like Oracle, and strong in writing SQL.
+Excellent troubleshooting skills to root cause complex issues required.
+Good working knowledge of Jenkins, Artifactory, GIT, Maven, Groovy DSL, Ansible, NPM, Node.js, knowledge of Linux command line preferred.
+Experience with projects developed by Java, and project experience using Agile development method is preferred.
+Ability to succeed in high energy, dynamic environment
+Knowledge of CI/CD and DevOps is preferred.

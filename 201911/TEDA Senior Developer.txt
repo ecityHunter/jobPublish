@@ -1,0 +1,55 @@
+TEDA Senior Developer
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 6
+Employee Status: Permanent
+Posting Date: 16/Oct/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+
+The successful candidate will be the part of a strong development team building an innovative platform which focus on front office risk system, trade processing, market data management and automation solution. The role will be engaged into replatforming the legacy systems and various front office tools. This is a rare opportunity for a self-driven, start-up minded, strong and passionate developer to participate and contribute to a paradigm shift. We want People driven by the mission!
+
+Build services with a framework and generic pattern mindset for scale across multiple dimensions – optimized performance, functional, visualization, quality control
+Develop scalable real-time/low-latency processing solutions in an agile delivery method
+Design and develop innovative solutions to complex problems, identifying issues and roadblocks around support, testing and development effort
+Develop and maintain automated testing
+Do whatever it takes to maintain stability, availability and performance
+Partner with stakeholders to capture requirements and deliver solutions – deep understanding of the problem and context along with ownership are key to be successful in this role
+Our Ideal Candidate
+
+The successful candidate is expected to be an experienced developer in building workflow management/market data management solution with low-latency in investment banking/hedge funds/technology companies. This role requires a wide variety of strengths and capabilities, including:
+
+You’ve built something exceptional you can showcase – demos/github/detailed explanation etc..
+Ability to think “product/platform” with a strong alignment with expected business outcomes/journeys
+Advanced knowledge of application, data and infrastructure architecture disciplines
+Understanding and demonstrable experience of modern architecture/designs – micro-services/API-first development/high-throughput/event-driven/agent-based system, compositional frameworks
+Ability to scope minimum viable functionalities for quick and iterative/incremental deliveries
+Proficiency in UI/UX programming languages and design, javascript/html5/react/electronjs/node.js
+Proficiency in one or more general purpose programming languages, Java or C#
+In-depth core Java or C# knowledge experience
+Experience in low latency, real-time, scalable systems is a plus
+Technical knowledge in a RDMS and no-SQL DB such as mongoDB, kdb, shell scripts in Linux/Unix environment and or windows-based environments
+Experienced in Agile/Scrum-Kanban and related tools – JIRA, Confluence
+Strong knowledge and some practical experience in modern dev-ops - CI/CD, containerization, orchestration
+Understanding of software development lifecycle
+Knowledge of equity products/financial market is a strong plus
+Other desirable skills/knowledge:
+
+Knowledge and experience in FIX, Market Data, Analytics and OMS is a plus
+C++ knowledge is a plus
+Soft skills:
+Fluent in English (speaking and writing)
+Outstanding problem-solving skills
+Proactive, self-starter, autonomous self-motivated, multi-tasking, with strong analytical and problem-solving skills, solution oriented with proven results
+Strong team spirit
+Hardworking with extreme curiousness to learn
+This is a very demanding role which requires a entrepreneurial mindset with the ability to work fast, efficiently, under pressure on multiple deliveries

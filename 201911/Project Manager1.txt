@@ -1,0 +1,29 @@
+Project Manager
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 6
+Employee Status: Permanent
+Posting Date: 06/Nov/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+Work as Project manager to manage to end to end project delivery including project planning, cost control, project executing monitor, testing plan, project deployment, project closure
+Work as scrum master to run a cross location/application agile team to deliver project related to FM operation
+Collect and understand business requirement and contribute to solution design for BoW/Project coming from FM Operation.
+Work as senior murex developer to implement key function in Murex 3.1 as per requirement 
+Our Ideal Candidate
+Bachelor or Master degree on Engineering or Computer Science
+Have more than 7 years in banking industry, familiar with FX cash product and operation process such as confirmation/settlement/accounting
+Have experience as scrum master facilitating a cross location/application agile team
+Have more than 4 years’ experience on Murex back office development as well as more than 2 years Java experience is preferred
+Familiar with on Java/XML/XSLT/Message Queue/Micro Service
+Experience with industry leading databases like Oracle, Sybase etc, and strong in writing SQL
+If you're ready to take on your next challenge, apply now.  

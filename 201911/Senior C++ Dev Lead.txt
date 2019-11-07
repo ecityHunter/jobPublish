@@ -1,0 +1,69 @@
+Senior C++ Dev Lead
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 5
+Employee Status: Permanent
+Posting Date: 29/Oct/2019
+Unposting Date: Ongoing
+ 
+For Financial Markets IT of Standard Chartered bank, we dedicated to implementing solutions to build the strategic Financial Markets management system to replace a legacy vendor platform and developing more fantastic customer journey.
+
+ 
+
+Role description
+The Dev lead need to be one strong, hands-on candidate to fill the role, who is expected to lead an Agile team of 8 or more engineers to develop more solutions to build up our Financial Markets system.
+Your new role
+
+·       Develop interfaces and reports for a Repo trading System (RACE).
+
+·       To perform code review and mentor junior developers.
+
+·       As L2/L3 technical expert to support L1 Production support team for RACE.
+
+·       Able to understand repo trading flow, work with business configuration team to build Martini functions. 
+
+·       Work with QA team to support SIT/UAT/PT test.
+
+·       Monitoring, Optimizing and Capacity Planning for RACE.
+
+·       Prepare documentation as required to follow SCB rules.
+
+·       Meet the tight project delivery timelines 
+
+·       Able to solve complex requirements and issues, and work with Vendor to troubleshooting.
+
+·       Look for process improvements at all the stages of the project
+
+ 
+
+What you'll need to succeed
+
+ 
+
+·       5+ year strong C++ application software development full life cycle experience on Linux.
+
+·       Good knowledge of pattern design
+
+·       Solid Linux shell script coding capability to automatic BAU tasks to increase efficiency.
+
+·       Strong troubleshooting skills.
+
+·       Good English communication skills, be able to manage communication/relationship with 3rd party vendors, and upstream App owners and other stakeholders.
+
+·       Prior exposure to work on projects in the Banking & Financial Services Vertical is preferred
+
+·       Bachelor/Master degree in IT related major. 
+
+·       Agile experience is added advantage
+
+·       Able to work under pressure and demonstrate initiative, enthusiasm and rapid learning capability, and detail oriented
+
+ 
+
+Company Introduction
+
+We are a leading international bank focused on helping people and companies prosper across Asia, Africa and the Middle East. 
+To us, good performance is about much more than turning a profit. It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.

@@ -1,0 +1,50 @@
+UI Designer
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 7
+Employee Status: Permanent
+Posting Date: 16/Oct/2019
+Unposting Date: Ongoing
+ 
+Background
+The Digital Solutions team provides engineering, automation, product management, and development support across Technical Services for SCB. This includes Platform, Storage, Database, Middleware, and Automation Engineering.
+
+ 
+The team is expanding its design capabilities to develop products that are delightful to the user. They will provide a visual and functional direction to the rest of Technical Services by creating a design style and system for developing products.
+
+ 
+Job Description
+
+We are seeking a talented, motivated, and driven individual for the role of UI Designer in the Digital Solutions team.  This person will research and design web and mobile user interface for solutions developed on the Leap platform. These solutions are developed by the Digital Solutions team who are providing development across Engineering and Technical Services. They will work with the Head of Digital Solutions and the User Experience Designers in delivering new systems design across the variety of products used in Technology Services. As a UI designer working within Technology Services, working knowledge of technology solutions is required to communicate requirements to engineering teams. They should be mature individuals who are comfortable working in a development team embedded in an operations environment.
+
+ 
+Key Roles and Responsibilities
+
+Gathering and evaluating user requirements, in collaboration with product managers, UX designers and engineers
+Develop standard UI components and design system for the Leap platform
+Communicate your designs effectively to developers and other key stakeholders
+Conduct, observe and analyse usability testing
+Adhere to brand and marketing standards on fonts, colours and images
+Propose, evaluate, and introduce new design techniques and processes for Engineering.
+Bridge the gap between design and engineering, identify new ways to bring collaboration.
+Support the QA team to ensure features are implemented as intended
+ 
+Qualifications and Skills
+
+Required
+Working knowledge of industry tools: Adobe Creative Cloud, InVision, Principle, Sketch.
+Experience with web and mobile app design.
+Strong visual design skills such as layout, interaction, graphic and illustrations
+Working knowledge of responsive design and grid principles
+Portfolio of design projects that includes clear process to demonstrate how it went from a business need to a delivered service or product.
+Working knowledge of the ideation and creation of UI design deliverables: User flows, prototypes, interaction patterns
+Self-starter capable of identifying opportunities and delivering solutions on their own
+Strong English communication skills.
+ 
+Highly Desirable
+BSc in Design or Computer Science relevant field
+Knowledge of front-end programming languages (HTML/CSS/Javascript)
+Working knowledge of implementing UI/UX components for re-use in an SDK provided to other designers and developers.
+Experience creating rapid prototypes

@@ -1,0 +1,55 @@
+SABRE Technical Team Lead
+ 
+Job: Technology
+Primary Location: Europe & Americas-United Kingdom-London
+Schedule: Full-time
+Global Grade: Band 5
+Employee Status: Permanent
+Posting Date: 07/Nov/2019
+Unposting Date: 21/Nov/2019
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+Work closely with the Project Manager, and a team of developers to deliver Java and Scala components to internal business users
+Demonstrate a systematic and disciplined architectural, system design and programming approach
+Deeply passionate about best-practice software design principles, you and your team will write robust code along with a high-level of test coverage
+Self-starter who can drive/facilitate requirements and development effort
+Design smart and scalable solutions following the bank standards
+Coordinate with other teams in Technology
+Develop, prepare and maintain system documentation, including program descriptions and operational procedures
+Act as the second line of support during production problems
+Our Ideal Candidate
+
+Key Skills
+Some years of experience managing development teams in an agile environment
+Strong hands on development with investment banking IT experience
+Strong Java development experience working in a performance focused concurrent environment
+Good understanding of risk measures and experience generating risk in at least 2 of the following asset classes: FX, Rates, Commodities, Credit
+Good understanding of distributed computing, any experience of using Cloud computing is beneficial
+Experience of managing stakeholders and team members in multiple locations
+Experience with Hadoop/Spark/ Scala could be advantageous
+
+Qualification & Skills
+
+ 
+Development Tools and Methodologies
+
+Experience of TDD and BDD in a commercial environment
+Exposure to continuous build and deployment solutions such as Jenkins
+Able to work within an agile environment delivering software incrementally
+Other Preferred Skills 
+Strong analytical & problem solving and creative skills
+Good communication skills in both written and oral English
+Ability to be organized and multi-task on different requirements across various stakeholders, and to work independently and under pressure
+Cultural sensitivity and awareness to work with a range of people from diverse background and geographies
+Should have a technical or numerate degree in subjects such as Computer Science, Engineering, Mathematics or Economics
+Technical skills (Non-essential but beneficial for this role) 
+Development experience on functional language, such as Haskell, is a plus
+Domain Knowledge (Non-essential but very beneficial for this role)
+Knowledge of financial instruments and derivatives, trading and risk management, market data, and market risk processes and methodologies
+Understanding of Market Risk reporting including VaR, Limit management, IRC.
