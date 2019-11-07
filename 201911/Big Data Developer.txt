@@ -1,0 +1,35 @@
+Big Data Developer
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 7
+Employee Status: Permanent
+Posting Date: 07/Nov/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+Development of large scale big data solutions to be used in a very large production environment.
+Gather, analyze and maintain large data sets to provide answers to address hurdles and create innovative solutions in large-scale data infrastructures.
+Interact with both business and technical stakeholders to deliver high quality products and services that meet business requirements and expectations while applying the latest available tools and technology.
+Develop code and mentor junior developers to ensure deliverables are on time, within budget, and with good code quality.
+Present technical solutions, capabilities, considerations, and features in business terms. Effectively communicate status, issues, and risks in a precise and timely manner.
+Our Ideal Candidate
+Demonstrated hands on experience building Big Data solutions. Experience with Hadoop ecosystem: Hadoop, Spark, MapReduce, Hive/Pig, Yarn, HBase, etc
+Experience with RDBMS as well as NoSQL stacks (ElasticSearch, HBase, Cassandra)
+Good grasp of statistical and scientific programming packages in Python is a plus
+Experience with data visualization tools: Hue, Kibana, Qlikview, Tableau is a plus
+Good grasp of data science concepts with emphasis on machine learning techniques is a plus
+Independent problem-solving, highly motivated and self-directing
+Experience with Agile/Scrum development methodologies
+Software testing know-how, including black-box and white-box testing methodologies and both functional and non-functional testing
+Test driven development experience
+Understanding of DevOps practices
+Aptitude to learn the business domain of the application systems to be developed
+Strong communication skills, should be able to communicate effectively with business and other stake holders
