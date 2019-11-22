@@ -1,0 +1,42 @@
+Big Data Developer
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 6
+Employee Status: Permanent
+Posting Date: 08/Nov/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+Perform hands on development in hadoop ecosystem in data ingestion, data transformation, data service, etc
+Lead the technical design on components or full application
+In addition to development, participate end to end project delivery and conduct tasks such as:  data analysis, testing, build, and release.
+Follow and contribute to DevOps and related team collaboration activities
+Business
+Data Solution Service Team design, develop, and implement data centric applications such as big data, data warehouse, business intelligence, data analytic.  
+We are seeking intermediate to Sr. developer with Java & Hadoop experience. 
+Our Ideal Candidate
+
+Key Skills:
+Overall 5+ year hands-on software development experience
+Strong experience in Java, Spark, Unix
+Hands on development experience in hadoop environment: Hive, Hbase, Kafka, etc
+Experience in Spring Boot, Spring Cloud framework, and familiar with microservice system architecture
+English:  Read and write is a must.  Speaking and listening is a big plus, but optional in day 1.
+Fast learner, self-disciplined, positive attitude. 
+Good communicator
+Nice to have: 
+
+Data Warehouse, ETL, BI project and data model experience is a big plus
+Experience in front end framework such as Vue.js, React, etc
+Experience in Data Visualization, such as D3, EChart, etc
+Experience in Data Analytic project experience in statistics, machine learning, etc
+Financial industry experience
+Team lead and client facing experience

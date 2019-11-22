@@ -1,0 +1,28 @@
+Dashboard Developer
+ 
+Job: Risk
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 8
+Employee Status: Permanent
+Posting Date: 10/Oct/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+The Role Responsibilities
+Manage and maintain the current Tableau dashboard reporting platform
+Work with various stakeholders and teammates for different projects including:
+Understanding the request from stakeholders
+Structure data with SQL/ R/ Excel etc. to a suitable way for visualization
+Interpret stakeholder needs and translate it into a dashboard with proper design
+Our Ideal Candidate
+Proficiency with dashboard design with good sense of art, preferable in Tableau, other visualisation tools e.g., Power BI, QlikView will also be beneficial. (please include links/ examples of portfolio in job application)
+Good communication skills, capable of understanding users’ actual needs
+Proficiency with SQL.
+Experience with financial/ non – financial ERM is a plus.
+Ability to think critically, solve problems creatively and effectively
+Fresh graduates who could demonstrate skills with relevant project experience are very welcomed.

@@ -1,0 +1,45 @@
+UI/UX Developer, Solutions Engineering
+ 
+Job: Technology
+Primary Location: Greater China and North Asia-China-Tianjin
+Schedule: Full-time
+Global Grade: Band 6
+Employee Status: Permanent
+Posting Date: 19/Nov/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+Scope of Role
+We are seeking a talented, motivated, and driven individual for the role of UI/UX Developer in the Solutions Engineering team.  This person will help to create user centred frontends for products developed by the Solutions Engineering team providing development across Engineering and Technical Services. They will work with the Head of Solutions Engineering in delivering new systems software and systems integration across the variety of products used in Technical Services. They will be mature individuals who are comfortable working in a development team embedded in an operations environment.
+
+
+The Role Responsibilities
+Develop frontend components and applications (desktop/tablet/mobile) for Technical Services
+Improve existing technologies in use and supported by Engineering
+Propose, evaluate, and introduce new technologies
+Lead systems integration for new and existing components
+Our Ideal Candidate
+
+Required
+Strong communicator with experience in agile working environments
+Experienced developer who has created and developed UI/UX frameworks and components in agile development teams
+Experienced frontend developer that has extensive experience on design led development of user centred products.
+Strong technologist who keeps up to date with technology
+Motivated to do hands-on development and peer reviews
+Self-starter capable of identifying opportunities and delivering solutions on their own
+Strong knowledge of multiple programming languages (HTML/CSS/Javascript, .NET, python, Java, Objective-c, as well as interpreted scripting language experience)
+Working knowledge of API development standards
+Working knowledge of implementing UI/UX components for re-use in an SDK provided to other developers.
+Strong knowledge of one or more popular open source frameworks such as Angular or React.
+Strong knowledge of one or more style frameworks such as bootstrap, foundation, or boilerplate.
+Undergraduate level qualification with Bachelor in Engineering or Computer Science
+Strong English communication skills
+Highly Desirable
+
+Full-stack development experience
+Mobile development experience
+Breadth of technical knowledge – operating systems, networking, distributed computing, cloud as well as development tools.

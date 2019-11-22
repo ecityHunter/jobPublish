@@ -1,0 +1,37 @@
+Full Stack Web Developer
+ 
+Job: Risk
+Primary Location: Greater China and North Asia-China-China Tianjin
+Schedule: Full-time
+Global Grade: Band 8
+Employee Status: Permanent
+Posting Date: 24/Oct/2019
+Unposting Date: Ongoing
+ 
+Ready to take the next step in your career with us? 
+
+To us, good performance is about much more than turning a profit.  It's about showing how you embody our valued behaviours - do the right thing, better together and never settle - as well as our brand promise, Here for good. 
+We're committed to promoting equality in the workplace and creating an inclusive and flexible culture - one where everyone can realise their full potential and make a positive contribution to our organisation. This in turn helps us to provide better support to our broad client base.
+
+Job Purpose
+
+Data Strategy team primary function is to provide support and advisory for data initiatives in Risk, Compliance, and Finance function within the bank.
+This role will be focusing on an end-to-end web development for an internal online dashboard reporting platform. It requires for the ability to work both within a team environment and independently, plus passion about latest trends in design and web publishing.
+
+
+The Role Responsibilities
+Develop web application to refine the current BI reporting platform.
+Work with various stakeholders and teammates for different projects including:
+Keep liaising with project manager to ensure a throughout understanding on the request.
+Help architects to get the data from data server or through APIs.
+Understand the data and help with visualizations if necessary.
+Collaborate with UI developers all the way to make sure ideas and initiatives are well implemented.
+Deliver the projects on time.
+Maintain the application daily to make sure the accuracy and functionality of your deliverables, and perform ad-hoc releases and/or hotfixes.
+Our Ideal Candidate
+BA/BS degree in Computer Science, Computer Engineering, or equivalent practical experience.
+Keen to understand business.
+PHP and JavaScript
+CSS, HTML5, jQuery, Bootstrap (Angular2 and NodeJS a plus)
+Experience with BI applications and D3.js
+Git version control and continuous integration concepts
